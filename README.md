@@ -2,7 +2,7 @@
 
 ## 🇺🇸 English
 
-**[Switch to Portuguese (Mudar para Português)](#-portugu)**
+**[Switch to Portuguese (Mudar para Português)](#-jogo-estilo-crossy-road)**
 
 ---
 
@@ -29,6 +29,8 @@ Did you like the project and want to know more about its development? You can [a
 
 ---
 ---
+
+# 🌐 Jogo Estilo Crossy Road
 
 ## 🇧🇷 Português (Portuguese)
 
