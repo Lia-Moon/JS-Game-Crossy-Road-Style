@@ -1,21 +1,58 @@
-![Programação-Lógica de programação (1)](https://user-images.githubusercontent.com/112638042/230464006-6fb1debb-bcdb-40c0-92c2-e5ee036a9726.png)
+# 🌐 Crossy Road Style Game
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-# Jogo estilo CrossyRoad
+## 🇺🇸 English
 
-## Adaptado por Júlia Vieira
+**[Switch to Portuguese (Mudar para Português)](#-portugus)**
 
-Este projeto faz parte do curso de Lógica de programação: laços e listas com JavaScript da escola Mobile da Alura. Durante o curso, os alunos aprendem como criar um jogo do zero, com animações, pontuação e sons, como adicionar imagens no P5 Js, como usar listas (arrays) e laços de repetição para evitar código duplicado e como desenvolver a lógica de programação.
+---
 
-Não é necessário ter NodeJS, a ferramenta utilizada foi o https://editor.p5js.org/ e é possível rodar o projeto através do site https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s.
+## 💻 About the Project
 
-## 🛠️ Abrir e rodar o projeto
+This project was **Adapted by Júlia Vieira**.
 
-Aqui vem um passo a passo para abrir e rodar o projeto.
+It is part of the **Logic Programming: Loops and Lists with JavaScript** course from **Alura's** Mobile School. During the course, students learn how to create a game from scratch, including animations, scoring, and sounds. Key topics covered include how to add images using **P5.js**, how to use **lists (arrays)** and **loops** to avoid code duplication, and how to develop the core programming logic.
 
-- [Acesse o curso por meio da plataforma utilizada para desenvolvimento](https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s)
-- Clique no botão "Iniciar" que se encontra no lado superior esquerdo.
+It is **not necessary to have NodeJS** installed. The tool used for development was [https://editor.p5js.org/](https://editor.p5js.org/), and you can run the project directly through the following link: [https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s](https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s).
 
-## 📚 Mais informações do curso
+---
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/javascript-listas-lacos) que desenvolve o projeto desde o começo!
+## 🛠️ How to Open and Run
+
+1.  **[Access the project directly on the P5.js platform](https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s)**.
+2.  Click the "Play" (or "Run") button, which is located on the upper left side of the editor, to start the game.
+
+---
+
+## 📚 More Information
+
+Did you like the project and want to know more about its development? You can [access the full Alura course](https://cursos.alura.com.br/course/javascript-listas-lacos) that develops this project from the beginning!
+
+---
+---
+
+## 🇧🇷 Português (Portuguese)
+
+**[Voltar ao topo (Back to Top)](#-crossy-road-style-game)**
+
+---
+
+## 💻 Sobre o Projeto
+
+Este projeto foi **Adaptado por Júlia Vieira**.
+
+Ele faz parte do curso de **Lógica de programação: laços e listas com JavaScript** da escola Mobile da **Alura**. Durante o curso, os alunos aprendem a criar um jogo do zero, incluindo animações, pontuação e sons. Os tópicos principais abordados são: como adicionar imagens no **P5.js**, como usar **listas (arrays)** e **laços de repetição** para evitar código duplicado e como desenvolver a lógica de programação central do jogo.
+
+Não é **necessário ter o NodeJS** instalado. A ferramenta utilizada para o desenvolvimento foi o [https://editor.p5js.org/](https://editor.p5js.org/), e você pode rodar o projeto diretamente através do link: [https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s](https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s).
+
+---
+
+## 🛠️ Como Abrir e Rodar
+
+1.  **[Acesse o projeto diretamente na plataforma P5.js](https://editor.p5js.org/Lia_Moon/sketches/dvfrWz68s)**.
+2.  Clique no botão "Play" (ou "Run") que se encontra no canto superior esquerdo do editor para iniciar o jogo.
+
+---
+
+## 📚 Mais Informações
+
+Gostou do projeto e quer conhecer mais sobre o desenvolvimento? Você pode [acessar o curso completo da Alura](https://cursos.alura.com.br/course/javascript-listas-lacos) que desenvolve este projeto desde o começo!
