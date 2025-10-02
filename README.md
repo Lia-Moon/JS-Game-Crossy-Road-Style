@@ -2,7 +2,7 @@
 
 ## 🇺🇸 English
 
-**[Switch to Portuguese (Mudar para Português)](#-portugus)**
+**[Switch to Portuguese (Mudar para Português)](#-portugu)**
 
 ---
 
